@@ -16,7 +16,7 @@ public class Dring {
 		Integer a = new Integer(5);
 		Integer b = new Integer(5);
 		System.out.print(a == b);
-		int iarray[] = new int[] { 1, 2 };
+		int iarray[] = new int[] { 1, 2, 3 };
 	}
 
 	public void test(float x) {
